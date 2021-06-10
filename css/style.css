@@ -70,6 +70,7 @@ body {
 .card-info-2 {
     display: flex;
     justify-content: space-between;
+    padding: 20px;
 }
 
  p {
