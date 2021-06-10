@@ -12,6 +12,8 @@ body {
 
 .card-container {
     display: flex;
+    overflow: auto;
+    border-radius: 12px;
 
 }
 
