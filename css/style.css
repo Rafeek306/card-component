@@ -30,7 +30,7 @@ body {
 
 .card-right {
     background: url("../images/desktop.jpg");
-    width: 112%;
+    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -68,7 +68,6 @@ body {
 .card-info-2 {
     display: flex;
     justify-content: space-between;
-    padding-right: 24px;
 }
 
  p {
