@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 body {
     margin: 0;
+    Background: hsl(233, 47%, 7%);
 }
 
 
 .container {
     padding: 110px 131px;
-    Background: hsl(233, 47%, 7%);
-
+    
 }
 
 .card-container {
